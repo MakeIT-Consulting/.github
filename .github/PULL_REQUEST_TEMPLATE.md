@@ -1,23 +1,43 @@
-## Beschreibung
-- [ ] Welche Features wurden implementiert oder behoben?
-- [ ] Welche neuen Funktionen oder Verbesserungen gibt es?
+# Beschreibung
+- [ ] Es wurden neue Features implementiert
 
-## Jira-Ticket
+- [ ] Es wurden Fehler behoben
+
+- [ ] Es wurden Verbesserungen gemacht
+
+
+
+
+## Jira Tickets
 <!-- JIRA TICKETS -->
- 
+
+
+
+
+
 ## Wie wurde getestet?
 
 - [ ] Unit-Tests
+
 - [ ] Integrationstests
+
 - [ ] Manuelle Tests
+
 - [ ] Andere Tests (bitte erläutern)
- 
+
+
+
 ## 🚨 Checkliste
 
-- [ ] Der Code entspricht den Coding Guidelines.
+- [ ] Der Code entspricht den [Coding Guidelines](https://melibo.atlassian.net/wiki/spaces/MD/pages/58720257/Guidelines).
+
 - [ ] Der Code ist gut dokumentiert.
-- [ ] Der Code ist getestet.
-- [ ] Die Tests decken alle Fälle ab.
-- [ ] Die PR-Beschreibung erklärt den Zweck des PR klar.
+
+- [ ] Der Code ist ausreichend getestet.
+
+- [ ] Die Funktionalität ist mit Tests sichergestellt. 
+
+
+
 
 ## Weitere Hinweise (optional)
