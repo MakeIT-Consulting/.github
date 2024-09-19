@@ -1,3 +1,5 @@
+###STAGE
+
 ## Beschreibung
 - [ ] Welche Features wurden implementiert oder behoben?
 - [ ] Welche neuen Funktionen oder Verbesserungen gibt es?
